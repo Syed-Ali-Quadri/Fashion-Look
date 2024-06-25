@@ -25,13 +25,17 @@ The **Fashion Look** web page showcases a sleek, modern design with a focus on f
 
 To use this project, simply clone the repository and open the `index.html` file in your web browser.
 
+### Credits
+[The Design Is Taken](https://dribbble.com/thomsoon_com)
+
+
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/Syed-Ali-Quadri/fashion-look.git
 
 
-### Credits
+
 
 ```Designer
 https://dribbble.com/thomsoon_com
