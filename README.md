@@ -29,3 +29,9 @@ To use this project, simply clone the repository and open the `index.html` file 
 
 ```bash
 git clone https://github.com/Syed-Ali-Quadri/fashion-look.git
+
+
+### Credits
+
+```Designer
+https://dribbble.com/thomsoon_com
